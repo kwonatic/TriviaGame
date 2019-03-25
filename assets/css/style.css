@@ -1,0 +1,33 @@
+@font-face{
+    font-family: digital-clock-font;
+    src:url(../digital-7_mono.ttf);
+   }
+
+   #title {
+       text-align: center;
+   }
+
+
+#display {
+    /* timer font */
+    
+    font-family: digital-clock-font;
+    font-size: 120px;
+    color: red;
+  
+    /* Typography */
+    text-align: center;
+  
+    /* Visual */
+    /* background: black; */
+  }
+
+  #buttons {
+      text-align: center;
+  }
+
+  #q1 {
+      text-align: center
+  }
+
+  
